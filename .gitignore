@@ -3,3 +3,4 @@ geckodriver.log
 goatenv
 __pycache__
 *.pyc
+/static
